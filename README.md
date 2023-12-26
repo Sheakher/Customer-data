@@ -1,1 +1,2 @@
 # Customer-data
+This dataset captures the history of interactions or transactions involving a product or service, including details about the product, quantity, pricing, promotions, and the demographics of the individuals associated with the incidences. The dataset could be used for various analyses, such as understanding customer behavior, evaluating the effectiveness of promotions, or predicting future sales.
